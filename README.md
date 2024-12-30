@@ -7,12 +7,12 @@ Practical exercises for ML using Scikit-learn: A Machine Learning Library
 - **Built Upon NumPy and SciPy**: Ensures efficient numerical computations.
 - **Well-Documented and Easy to Use**: Clear and concise documentation for ease of use.
 - **Supports a Wide Range of Machine Learning Tasks**:
-  ------------ **Preprocessing**: Includes data cleaning, feature scaling, and feature selection.
-  ------------ **Model Selection**: Helps in choosing appropriate algorithms.
-  ------------ **Model Training**: Facilitates fitting models to the training data.
-  ------------ **Prediction**: Enables making predictions on new, unseen data.
-  ------------ **Evaluation**: Allows assessing model performance using metrics like accuracy.
-  ------------ **Model Persistence**: Provides functionality for saving and loading trained models.
+  -- **Preprocessing**: Includes data cleaning, feature scaling, and feature selection.
+  -- **Model Selection**: Helps in choosing appropriate algorithms.
+  -- **Model Training**: Facilitates fitting models to the training data.
+  -- **Prediction**: Enables making predictions on new, unseen data.
+  --**Evaluation**: Allows assessing model performance using metrics like accuracy.
+  --**Model Persistence**: Provides functionality for saving and loading trained models.
 
 ## Getting Started
 To get started with this repository, clone it to your local machine and explore the practical exercises.
